@@ -1,6 +1,6 @@
 FROM python:3.10.5-slim-buster
 
-MAINTAINER Oleksandr Vasylyna
+MAINTAINER [Oleksandr Vasylyna, Sokhnenko Anton, Oleh Vakulchyk, PolinaDyka]
 
 WORKDIR /app
 
